@@ -1,0 +1,45 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Sublime Monokai",
+    "editor.minimap.enabled": false,
+    "diffEditor.wordWrap": "on",
+    "editor.mouseWheelZoom": true,
+    "autoprefixer.options": {
+        
+        "browsers": [
+            "last 4 versions",
+            "ie >= 9",
+            "> 5%"
+        ]
+    },
+    "editor.wordWrap": "on",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "terminal.integrated.fontFamily": "MesloLGM NF",
+    "terminal.integrated.automationShell.linux": "",
+    "terminal.integrated.automationShell.osx": "",
+    "window.zoomLevel": 2,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.automationShell.windows": "",
+    "terminal.integrated.fontWeight": "100",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "terminal.integrated.env.linux": {
+    
+    },
+    "editor.fontSize": 18,
+    "typescript.suggest.jsdoc.generateReturns": false,
+    "typescript.validate.enable": false,
+    "javascript.suggestionActions.enabled": false,
+    "git.enableSmartCommit": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": null,
+    "[javascript]": {
+        "editor.defaultFormatter": "svipas.prettier-plus"
+    },
+    "prettier.singleQuote": true
+}
